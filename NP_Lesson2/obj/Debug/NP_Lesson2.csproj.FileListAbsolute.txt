@@ -1,0 +1,6 @@
+c:\users\орунбаевас\documents\visual studio 2017\Projects\NP_Lesson2\NP_Lesson2\bin\Debug\NP_Lesson2.exe.config
+c:\users\орунбаевас\documents\visual studio 2017\Projects\NP_Lesson2\NP_Lesson2\bin\Debug\NP_Lesson2.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\NP_Lesson2\NP_Lesson2\bin\Debug\NP_Lesson2.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\NP_Lesson2\NP_Lesson2\obj\Debug\NP_Lesson2.csprojResolveAssemblyReference.cache
+c:\users\орунбаевас\documents\visual studio 2017\Projects\NP_Lesson2\NP_Lesson2\obj\Debug\NP_Lesson2.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\NP_Lesson2\NP_Lesson2\obj\Debug\NP_Lesson2.pdb
